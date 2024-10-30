@@ -1,0 +1,3 @@
+The PHP files are licensed under GNU General Public License version 2
+
+The MediaElement.js CSS files and images are free for personal and commercial use with no attribution required.
